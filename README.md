@@ -26,8 +26,8 @@ Try it: https://sprunki.dev/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/cutesleven/sprunki.git
-cd sprunki
+git clone https://github.com/cutesleven/sprunki-incredibox.git
+cd sprunki-incredibox
 ```
 
 2. Install dependencies:
